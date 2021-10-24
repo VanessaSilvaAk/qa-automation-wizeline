@@ -4,7 +4,7 @@ In this project you will find automated tests with testcafe from this website ht
 
 All you have to do is 
 npm install
-To install the dependencies to be used in the project
+to install all the dependencies to be used in the project
 
 To run the project you have to run the following command on the console
 npm run test-all

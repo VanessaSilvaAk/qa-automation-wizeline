@@ -1,0 +1,16 @@
+{
+  "name": "qa-automation-wizeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-all": "testcafe chrome ./page_model/tests/Login.test.js ./page_model/tests/ProductsLowToHigh.test.js"
+  },
+  "keywords": [],
+  "author": "Vanessa Silva",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "testcafe": "^1.12.0"
+  }
+}
